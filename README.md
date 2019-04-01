@@ -5,7 +5,7 @@ This project was made to improve my skills about docker and containers.
 ### Installation and documentation
 
 
-In order to run this stack you'll need docker installed and docker-compose:
+In order to run this stack you'll need docker and docker-compose installed:
 
 Docker:
 * [Windows](https://docs.docker.com/windows/started)
@@ -18,6 +18,8 @@ Docker-compose:
 * If you find any problems please fill out an [issue](https://github.com/docker/compose/issues/new/choose).
 
 ### Run this project using docker
+
+Run these commands in the same directory ad docker-compose.yml .
 
 Build Services:
 ```
